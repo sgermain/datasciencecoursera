@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Git 
+This is a test for GIT.
